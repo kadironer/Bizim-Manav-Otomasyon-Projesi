@@ -1,0 +1,285 @@
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\Proje_Odev.exe.config
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\Proje_Odev.exe
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\Proje_Odev.pdb
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.Properties.Resources.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.csproj.GenerateResource.cache
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.exe
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.pdb
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.anaSayfa.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.girisYap_form.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.csprojAssemblyReference.cache
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.kayıtOl_form.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.sifremiUnuttum_form.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.profilAnasayfa.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.exe.licenses
+C:\Users\Kadir Öner\Desktop\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.csproj.CopyComplete
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\Proje_Odev.exe.config
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\Proje_Odev.exe
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\Proje_Odev.pdb
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.csprojAssemblyReference.cache
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.anaSayfa.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.girisYap_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.kayıtOl_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.profilAnasayfa.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.Properties.Resources.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.sifremiUnuttum_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.csproj.GenerateResource.cache
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.exe.licenses
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.csproj.CopyComplete
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.exe
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.pdb
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.urunEkle_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.urunSatis_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.musteriler_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.musteriEkle_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.musteriGuncelle_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.urunleriGoster_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Ödev\Proje_Odev\Proje_Odev\obj\Debug\Proje_Odev.urunGuncelle_form.resources
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\Proje_Odev.exe.config
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\Proje_Odev.exe
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\Proje_Odev.pdb
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.csprojAssemblyReference.cache
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.anaSayfa.resources
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.girisYap_form.resources
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.kayıtOl_form.resources
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.musteriEkle_form.resources
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.musteriGuncelle_form.resources
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.musteriler_form.resources
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.profilAnasayfa.resources
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.Properties.Resources.resources
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.sifremiUnuttum_form.resources
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.urunEkle_form.resources
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.urunGuncelle_form.resources
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.urunleriGoster_form.resources
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.urunSatis_form.resources
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.csproj.GenerateResource.cache
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.exe.licenses
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.csproj.CopyComplete
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.exe
+C:\Users\Kadir Öner\Desktop\Proje_Odev\obj\Debug\Proje_Odev.pdb
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\Proje_Odev.exe.config
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\Proje_Odev.exe
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\Proje_Odev.pdb
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.csprojAssemblyReference.cache
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.anaSayfa.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.girisYap_form.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.kayıtOl_form.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.musteriEkle_form.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.musteriGuncelle_form.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.musteriler_form.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.profilAnasayfa.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.Properties.Resources.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.sifremiUnuttum_form.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.urunEkle_form.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.urunGuncelle_form.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.urunleriGoster_form.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.urunSatis_form.resources
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.csproj.GenerateResource.cache
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.exe.licenses
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.csproj.CopyComplete
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.exe
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.pdb
+C:\Users\Kadir Öner\Desktop\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.gunlukRaporlar_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.csprojAssemblyReference.cache
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.anaSayfa.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.girisYap_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.gunlukRaporlar_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.kayıtOl_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.musteriEkle_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.musteriGuncelle_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.musteriler_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.profilAnasayfa.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.Properties.Resources.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.sifremiUnuttum_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.urunEkle_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.urunGuncelle_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.urunleriGoster_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.urunSatis_form.resources
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.csproj.GenerateResource.cache
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.exe.licenses
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.exe
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.pdb
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\Proje_Odev.exe.config
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\Proje_Odev.exe
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\Proje_Odev.pdb
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Kadir Öner\Desktop\Dosyalar\Otomasyon Proje\Proje_Odev\obj\Debug\Proje_Odev.csproj.CopyComplete

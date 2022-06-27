@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje_Odev", "Proje_Odev\Proje_Odev.csproj", "{79B8EC6C-5758-4862-8759-FE0041CE9F1E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Bizim Manav", "Bizim Manav\Bizim Manav.vdproj", "{4CADEFF7-4EFB-4397-BD84-BEF120C10F5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79B8EC6C-5758-4862-8759-FE0041CE9F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B8EC6C-5758-4862-8759-FE0041CE9F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B8EC6C-5758-4862-8759-FE0041CE9F1E}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{79B8EC6C-5758-4862-8759-FE0041CE9F1E}.Debug|Default.Build.0 = Debug|Any CPU
+		{79B8EC6C-5758-4862-8759-FE0041CE9F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B8EC6C-5758-4862-8759-FE0041CE9F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B8EC6C-5758-4862-8759-FE0041CE9F1E}.Release|Default.ActiveCfg = Release|Any CPU
+		{79B8EC6C-5758-4862-8759-FE0041CE9F1E}.Release|Default.Build.0 = Release|Any CPU
+		{4CADEFF7-4EFB-4397-BD84-BEF120C10F5E}.Debug|Any CPU.ActiveCfg = Debug
+		{4CADEFF7-4EFB-4397-BD84-BEF120C10F5E}.Debug|Default.ActiveCfg = Debug
+		{4CADEFF7-4EFB-4397-BD84-BEF120C10F5E}.Debug|Default.Build.0 = Debug
+		{4CADEFF7-4EFB-4397-BD84-BEF120C10F5E}.Release|Any CPU.ActiveCfg = Debug
+		{4CADEFF7-4EFB-4397-BD84-BEF120C10F5E}.Release|Default.ActiveCfg = Debug
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C485E072-01DB-4561-91BE-AA65E7DD8F67}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
